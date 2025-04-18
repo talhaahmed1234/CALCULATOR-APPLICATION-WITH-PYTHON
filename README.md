@@ -1,0 +1,1 @@
+I made a Graphical User Interface (GUI) based calculator with basic arithmetic operations and the calculator could prompt the user to input two numbers and an operation choice of their own, then it could perform the calculation and display the result. The programming language I used was Python and the library(framework) I used for GUI Was Tkinter.
